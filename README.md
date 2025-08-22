@@ -1,4 +1,4 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Roode](https://leetcode.com/Roode)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Roode)](https://leetcode.com/Roode)
 
 <!--
 **RoodeLine/RoodeLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
