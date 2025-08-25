@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--<br><br>-->
 <!--[![gshona's 42 stats](https://badge42.herokuapp.com/api/stats/gshona?privacyEmail=true)](https://github.com/Tenagrim)-->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Roode?theme=dark&font=Share%20Tech)](https://leetcode.com/Roode/)<br><br>
+<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/Roode?theme=dark&font=Share%20Tech)](https://leetcode.com/Roode/)<br><br>-->
 <a href="https://www.codewars.com/users/RoodeLine" title="RoodeLine stats">
     <img src="https://www.codewars.com/users/RoodeLine/badges/large">
 </a><br><br><br>
