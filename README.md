@@ -17,3 +17,8 @@
 ### Linux
 
  1. [DO_Linux-Docker-CICD](https://github.com/RoodeLine/DO_Linux-Docker-CICD)
+    1. [UNIX/Linux](https://github.com/RoodeLine/DO_Linux-Docker-CICD/tree/main/D01_Linux-2)
+    2. [Сети в Linux](https://github.com/RoodeLine/DO_Linux-Docker-CICD/tree/main/DO2_LinuxNetwork-2)
+    3. [Linux Monitoring](https://github.com/RoodeLine/DO_Linux-Docker-CICD/tree/main/DO3_LinuxMonitoring_v1.0-2)
+    4. [Simple Docker](https://github.com/RoodeLine/DO_Linux-Docker-CICD/tree/main/DO5_SimpleDocker-1)
+    5. [Basic CI/CD](https://github.com/RoodeLine/DO_Linux-Docker-CICD/tree/main/DO6_CICD-1)
